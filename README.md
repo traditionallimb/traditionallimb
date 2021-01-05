@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [a dungeon crawler](https://github.com/peppermintgames69/dungeon-crawler)
 
-- 👨‍💻 All of my projects are available on [my github!](my github!)
+- 👨‍💻 All of my projects are available on [my github!](github.com/traditionallimb)
 
 - 📫 You can talk to me through **traditionallimb@gmail.com**
 
