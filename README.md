@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/traditionallimb" target="blank"><img src="https://img.shields.io/twitter/follow/traditionallimb?logo=twitter&style=for-the-badge" alt="traditionallimb" /></a> </p>
 
-- 🔭 I’m currently working on [a dungeon crawler](https://github.com/peppermintgames69/dungeon-crawler)
+- 🔭 I’m currently working on a [dungeon crawler](https://github.com/peppermintgames69/dungeon-crawler) and a [discord bot](https://github.com/traditionallimb/Abbi-V3)
 
 - 👨‍💻 All of my projects are available on [my github!](https://github.com/traditionallimb)
 
