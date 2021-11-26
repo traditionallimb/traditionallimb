@@ -13,7 +13,7 @@
 
 - 📫 You can talk to me through **traditionallimb@gmail.com**
 
-- 😄 Pronouns: She/Her/They/Them
+- 😄 Pronouns: They/Them
 
 
 <h3 align="left">Connect with me:</h3>
