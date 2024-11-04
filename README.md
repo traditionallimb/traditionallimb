@@ -4,6 +4,7 @@
 - ++ added
 - & and
 - ^// updated
+- <^/ tiny update
 - ↶ undo/undid
 - → to (used in conjunction with ++)
 - ^ in (used for css specific edits)
