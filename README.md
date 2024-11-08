@@ -2,6 +2,7 @@
 **i plan for this to grow :)**
 
 - ++ added
+- -- removed/deleted
 - & and
 - ^// updated
 - <^/ tiny update
